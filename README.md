@@ -1,6 +1,8 @@
 # Atomberg Fan Controller
 
 A desktop remote control for Atomberg smart fans via the Atomberg IoT Developer API.
+- Works only with atomberg fans that support smart wifi capabilities.
+- The refresh token and api key can be found in the atomberg developer options in settings
 
 ## Features
 
